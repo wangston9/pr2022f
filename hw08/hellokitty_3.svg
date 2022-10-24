@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="512"
+   width="512"
+   viewBox="0 0 500 700"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="hellokitty2 (1).svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs37">
+    <rect
+       x="197.42162"
+       y="306.60175"
+       width="100.20642"
+       height="20.440116"
+       id="rect8119" />
+    <rect
+       x="219.35735"
+       y="309.09445"
+       width="83.256086"
+       height="24.428432"
+       id="rect8063" />
+    <rect
+       x="204.40117"
+       y="312.08569"
+       width="147.06913"
+       height="30.909445"
+       id="rect251" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.0058594"
+     inkscape:cx="254.50438"
+     inkscape:cy="249.76826"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg33" />
+  <ellipse
+     fill="white"
+     stroke="black"
+     stroke-width="10"
+     cx="256"
+     cy="256"
+     rx="200"
+     ry="153"
+     id="ellipse9" />
+  <ellipse
+     fill="black"
+     stroke="white"
+     stroke-width="5"
+     cx="160"
+     cy="300"
+     rx="20"
+     ry="22"
+     id="ellipse11" />
+  <ellipse
+     fill="black"
+     stroke="white"
+     stroke-width="5"
+     cx="350"
+     cy="300"
+     rx="20"
+     ry="22"
+     id="ellipse13" />
+  <ellipse
+     fill="yellow"
+     stroke="black"
+     stroke-width="10"
+     cx="256"
+     cy="340"
+     rx="20"
+     ry="13"
+     id="ellipse15" />
+  <path
+     d="M20 300 95 290"
+     stroke-width="10"
+     stroke="black"
+     id="path17" />
+  <path
+     d="M40 340 100 326"
+     stroke-width="10"
+     stroke="black"
+     id="path19" />
+  <path
+     d="M50 390 128 360"
+     stroke-width="10"
+     stroke="black"
+     id="path21" />
+  <path
+     d="M420 275 500 270"
+     stroke-width="10"
+     stroke="black"
+     id="path23" />
+  <path
+     d="M420 320 489 330"
+     stroke-width="10"
+     stroke="black"
+     id="path25" />
+  <path
+     d="M400 350 460 384"
+     stroke-width="10"
+     stroke="black"
+     id="path27" />
+  <ellipse
+     fill="black"
+     stroke="black"
+     stroke-width="100"
+     cx="160"
+     cy="300"
+     rx="20"
+     ry="22"
+     id="ellipse29" />
+  <ellipse
+     fill="black"
+     stroke="black"
+     stroke-width="100"
+     cx="350"
+     cy="300"
+     rx="20"
+     ry="22"
+     id="ellipse31" />
+  <text
+     xml:space="preserve"
+     transform="matrix(1.3671875,0,0,1.3671875,-100,0)"
+     id="text249"
+     style="white-space:pre;shape-inside:url(#rect251);fill:#ff0000;stroke:#00ffff;stroke-width:1.37953" />
+  <text
+     xml:space="preserve"
+     style="font-size:16.4062px;fill:#ff0000;stroke:#ff00ff;stroke-width:1.88608;stroke-opacity:1"
+     x="238.07205"
+     y="444.40115"
+     id="text309"><tspan
+       sodipodi:role="line"
+       id="tspan307"
+       style="stroke-width:1.88607;stroke:#ff00ff;stroke-opacity:1"
+       x="238.07205"
+       y="444.40115" /></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(1.3671875,0,0,1.3671875,-100,0)"
+     id="text8061"
+     style="white-space:pre;shape-inside:url(#rect8063);fill:#ff0000;stroke:#ff00ff;stroke-width:1.37953;stroke-opacity:1"><tspan
+       x="219.35742"
+       y="320.04171"
+       id="tspan8929"> 
+</tspan><tspan
+       x="219.35742"
+       y="344.4714"
+       id="tspan8933"><tspan
+         dx="0 8.3144531 4.21875 5.0507812 4.21875 7.3945312 4.21875 7.3945312 4.21875"
+         id="tspan8931">K I T T Y</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(1.3671875,0,0,1.3671875,-60.467381,6.134372)"
+     id="text8117"
+     style="white-space:pre;shape-inside:url(#rect8119);fill:#ff0000;stroke:#ff00ff;stroke-width:1.37953;stroke-opacity:1"><tspan
+       x="197.42188"
+       y="317.54953"
+       id="tspan8935">PANDA KITTY</tspan></text>
+</svg>
